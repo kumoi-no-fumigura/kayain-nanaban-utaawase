@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kayain-nanaban-utaawase",
  "yomi": "かやのいんななばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（五題・各七番）",
+  "era": "寛治8年（1094）8月19日",
+  "author": "主催 藤原師実／判者 源経信",
+  "desc": "前関白藤原師実が高陽院で催した歌合。桜・時鳥・月・雪・祝の題をそれぞれ七番ずつ番え、周防内侍・匡房・通俊・俊頼らが詠み、帥大納言経信が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
